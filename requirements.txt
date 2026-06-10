@@ -12,5 +12,3 @@ python-dotenv
 numpy
 torch
 transformers
-dontenv
-logging
