@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+chromadb
+sentence-transformers
+langchain
+langchain-community
+langchain-text-splitters
+beautifulsoup4
+requests
+google-generativeai
+python-dotenv
+numpy
+torch
+transformers
+dontenv
+logging
